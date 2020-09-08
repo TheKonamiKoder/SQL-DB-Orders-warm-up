@@ -1,0 +1,5 @@
+INSERT INTO tbPerson(UNAME, PWORD, FNAME, LNAME, DOOR_NUM, POSTCODE, CARD_NUM, EMAIL, LAST_ORDER1, LAST_ORDER2, LAST_ORDER3)
+VALUES ('KingKewi123', 'DB', 'Kaivy', 'Pullankdam', '56', '432A JU78', 1234567890123456, 'kaivy.pullakandam@gmail.com', 0, 0, 0)
+;
+
+SELECT*FROM tbPerson
